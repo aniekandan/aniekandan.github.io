@@ -2,7 +2,7 @@ title: Tiny Seed
 description: > # this means to ignore newlines until "baseurl:"
   Posts about Mathematics and Python coding
 permalink: ':title/'
-baseurl: "aniekandan.github.io" # the subpath of your site, e.g. /blog. Here is is the name of the project folder. should also coincide with the name of the branch
+baseurl: "/" # the subpath of your site, e.g. /blog. Here is is the name of the project folder. should also coincide with the name of the branch
 url: "https://aniekandan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
